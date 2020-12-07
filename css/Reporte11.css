@@ -86,7 +86,9 @@ a{ /*display:block;
   text-transform: uppercase;
   line-height: 1.5;
 }
-
+a:hover{
+  color:#FFBB33;
+}
 img{
   align-self: center;
   display: inline-block;
