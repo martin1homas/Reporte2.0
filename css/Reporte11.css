@@ -65,6 +65,7 @@ p{
   background: #ffffe6
   height: 100px;
   line-height: 2;
+  text-size:16px;
 }
 nav{
 line-height: 2
@@ -76,10 +77,22 @@ a{ display:block;
   width: 200px;
   text-align: center;
   padding: 4px;
+  text-size:16px;
   text-decoration: none;
   margin:0 auto;
   margin-top: 10px;
+  /*text-align: left; 
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: "blue"; 
+  text-transform: uppercase;
+  line-height: 1.5;*/
 }
+text-align: left; 
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: "blue"; 
+  text-transform: uppercase;
+  line-height: 1.5;
+
 img{
   align-self: center;
   display: inline-block;
